@@ -1,0 +1,12 @@
+.card{
+    width:25%;
+    /* border:1px solid black; */
+    height:auto ;
+}
+
+.btn{
+    padding:15px;
+    background-color:cadetblue ;
+    border:0px ; 
+    /* color:'white' */
+}
