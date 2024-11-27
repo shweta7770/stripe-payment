@@ -1,0 +1,14 @@
+https://www.geeksforgeeks.org/how-to-integrate-stripe-payments-in-react-app-using-express/
+
+
+Refer this doc 
+
+
+1.ek account banao 
+2.npm install @stripe/react-stripe-js @stripe/stripe-js 
+3.how it is execute
+
+
+advanced things -
+1. custom changes 
+2. web hook
